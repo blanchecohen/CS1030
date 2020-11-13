@@ -1,3 +1,4 @@
+# add a line of text to change the file
 # add up all the numbers between 1 and 100
 sum = 0
 # range does not include the ending value, so
